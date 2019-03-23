@@ -1,0 +1,4 @@
+markdown: redcarpet
+baseurl: /alchenko.github.io
+exlude: ["README.md"]
+
