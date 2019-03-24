@@ -6,4 +6,4 @@ categories: jekyll update
 published: true
 ---
 Это проверка сервиса , для редактирования постов гит
-![Картинка](/images.q.jpg)
+![Картинка](/images/q.jpg)
