@@ -1,6 +1,5 @@
 ---
 layout: default
-autor: Alchenko
 ---
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
@@ -18,14 +17,6 @@ autor: Alchenko
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
-    <ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt }}
-    </li>
-  {% endfor %}
-</ul>
   </div>
 
   {%- if site.disqus.shortname -%}

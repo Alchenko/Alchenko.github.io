@@ -1,17 +1,25 @@
 ---
 layout: post
-title: Проверка шаблона
-autor: Alchenko
-date: '2019-03-24 07:43:52 +0300'
+title:  "Welcome to Jekyll!"
+date:   2019-03-24 14:51:52 +0300
 categories: jekyll update
-published: true
 ---
-Это проверка сервиса , для редактирования постов гит
-![Картинка](/images/q.jpg)
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, sequi dolores facere distinctio earum illo atque aut reprehenderit consequuntur assumenda. Quas delectus perspiciatis veniam rerum distinctio ad cum molestiae dignissimos.200</p>
-<!--more-->
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, sequi dolores facere distinctio earum illo atque aut reprehenderit consequuntur assumenda. Quas delectus perspiciatis veniam rerum distinctio ad cum molestiae dignissimos.200</p>
-Это проверка сервиса , для редактирования постов гит
-![Картинка](/images/q.jpg)
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, sequi dolores facere distinctio earum illo atque aut reprehenderit consequuntur assumenda. Quas delectus perspiciatis veniam rerum distinctio ad cum molestiae dignissimos.200</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, sequi dolores facere distinctio earum illo atque aut reprehenderit consequuntur assumenda. Quas delectus perspiciatis veniam rerum distinctio ad cum molestiae dignissimos.200</p>
+You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+
+To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+
+Jekyll also offers powerful support for code snippets:
+
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
